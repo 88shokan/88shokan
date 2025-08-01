@@ -30,7 +30,9 @@
 ###
 
 
-<h3 align="left">Contact</h3>
+<h2 align="left">Contact</h2>
+
+###
 
 <p align="left">
   📧 Email: <a href="mailto:billy.phann@outlook.com">billy.phann@outlook.com</a><br>
