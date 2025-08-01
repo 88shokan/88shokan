@@ -1,7 +1,6 @@
 
 <h1 align="left">🇻🇳 Billy Phan</h1>
 
-
 **'Student, Class of 2027 (Software Engineering / Computer Science)'**
 
 
