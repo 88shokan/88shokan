@@ -7,6 +7,8 @@
 
 <p align="left">Nice to meet you👋, my name is Billy. I am currently a student looking to obtain a Bachelor of Science in CS / IST at Temple University. I am passionate about technology and look to find various solutions to create function and innovating technology. I am open to new learning opportunities, so feel free to reach out!</p>
 
+
+
 ###
 
 <h2 align="left">My Tech Stack</h2>
@@ -25,14 +27,17 @@
     <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="40" height="40" alt ="Node Icon" ></img>
      <img src="https://devicon-website.vercel.app/api/swift/original.svg" width="40" height="40" alt ="Swift Icon" ></img>
       <img src="https://devicon-website.vercel.app/api/flask/original.svg" width="40" height="40" alt ="Flask Icon" ></img>
-   
-   
-   
-   
-   
-     
-   
-   
+###
+
+
+<h3 align="left">Contact</h3>
+
+<p align="left">
+  📧 Email: <a href="mailto:billy.phann@outlook.com">billy.phann@outlook.com</a><br>
+  🔗 LinkedIn: <a href="https://www.linkedin.com/in/billyphann" target="_blank">https://www.linkedin.com/in/billyphann</a>
+</p>
+
+
    
    
    
