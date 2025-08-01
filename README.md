@@ -23,7 +23,9 @@
    <img src="https://devicon-website.vercel.app/api/react/original.svg" width="40" height="40" alt ="React Icon" ></img>
    <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40" alt ="Spring Icon" ></img>
     <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" width="40" height="40" alt ="Node Icon" ></img>
-     <img src="https://devicon-website.vercel.app/api/Swift/original.svg" width="40" height="40" alt ="Swift Icon" ></img>
+     <img src="https://devicon-website.vercel.app/api/swift/original.svg" width="40" height="40" alt ="Swift Icon" ></img>
+      <img src="https://devicon-website.vercel.app/api/flask/original.svg" width="40" height="40" alt ="Flask Icon" ></img>
+   
    
    
    
