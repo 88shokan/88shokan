@@ -22,6 +22,8 @@
    <img src="https://devicon-website.vercel.app/api/css3/original.svg" width="40" height="40" alt ="CSS Icon" ></img>
    <img src="https://devicon-website.vercel.app/api/react/original.svg" width="40" height="40" alt ="React Icon" ></img>
    <img src="https://devicon-website.vercel.app/api/spring/original.svg" width="40" height="40" alt ="Spring Icon" ></img>
+    <img src="https://devicon-website.vercel.app/api/node/original.svg" width="40" height="40" alt ="Node Icon" ></img>
+   
    
    
      
