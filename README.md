@@ -15,6 +15,17 @@
 
 <div align="left">
    <img src="https://devicon-website.vercel.app/api/python/original.svg" width="40" height="40" alt="Python Icon" />
+   <img src="https://devicon-website.vercel.app/api/c/original.svg" width="40" height="40" alt ="C Icon"></img>
+   <img src="https://devicon-website.vercel.app/api/java/original.svg"  width="40" height="40" alt ="Java Icon"></img>
+   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="40" height="40" alt ="JavaScript Icon" ></img>
+    <img src="https://devicon-website.vercel.app/api/html/original.svg" width="40" height="40" alt ="HTML Icon" ></img>
+     <img src="https://devicon-website.vercel.app/api/css/original.svg" width="40" height="40" alt ="CSS Icon" ></img>
+   
+   
+   
+   
+   
+
  
 </div>
 
