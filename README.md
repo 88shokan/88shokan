@@ -14,8 +14,7 @@
 ###
 
 <div align="left">
-  <img src="https://devicon-website.vercel.app/api/python/original.svg"></img>
-  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/python/original.svg"><img width="12" />
  
 </div>
 
